@@ -1,0 +1,127 @@
+#d1 {
+    background-color: rgba(243, 227, 227, 0.582);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 350px;
+    width: 320px;
+    border-radius: 10px;
+    border: 3PX solid rgba(0, 0, 0, 0.616) ;
+}
+body{
+    color: rgba(15, 24, 24, 0.61);
+    background-image: url('b_AllSoulsquad.jpg');
+    display: flex;
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    
+}
+#dd1{
+    
+    padding-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    margin-top: 20%;
+}
+h1{
+    padding-top: 5%;
+    text-align: center;
+}
+a{
+    color: rgb(170, 5, 5);
+}
+.button{
+    font-size: 12px;
+    padding: 12px 18px;
+    border-radius: 12px;
+    color: #000;
+    background-color: aqua;
+    border-color: red
+}
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+
+    }
+.mb-md-5 mt-md-4 pb-5{
+    height: 60px;
+}
+
+.carousel-item > img {
+  height: 100%;
+}
+.carousel-caption > h1{
+    color: rgb(19, 1, 16);
+    font-size: 75px;
+}
+#h1:hover{
+    color: #6a11cb;
+}
+input{
+    border: none;
+    background-color: rgba(24, 22, 22, 0.76);
+    padding: 5PX;
+    color: white;
+}
+#sb{
+    background-color: rgb(0, 0, 0);
+    margin-left: 30%;
+    width: 60px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+#SB:HOVER{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#signup{
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10%;
+    border-style: double;
+    color: white;
+    background-color: rgba(6, 19, 31, 0.753);
+    
+}
+head{
+   text-align: center;
+   color: rgba(44, 44, 129, 0.774);
+}
+button{
+    font-size: 20px;
+    padding: 6pt 37pt;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    border-radius: 12px;
+    color: #000;
+    background-color: rgb(7, 161, 161);
+    border-color: rgba(19, 18, 18, 0.582);
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#top{
+    width: 100%;
+    height: 65px;
+    background: linear-gradient(130deg,red,black);
+    text-align: center;
+
+}
+
+    
