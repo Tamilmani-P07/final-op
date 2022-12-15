@@ -1,0 +1,182 @@
+#d1{
+    background:linear-gradient(rgba(63, 17, 17, 0.938),black) ;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 350px;
+    width: 320px;
+    border-radius: 10px;
+    border: 3PX solid rgba(0, 0, 0, 0.616) ;
+}
+#signup{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background:linear-gradient(rgba(67, 172, 241, 0.767),rgba(0, 0, 0, 0.774)) ;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 400px;
+    width: 420px;
+    border-radius: 10px;
+    border: 3PX solid rgba(0, 0, 0, 0.616) ;
+    
+}
+body{
+    color: rgba(15, 24, 24, 0.61);
+    background-image: url('1379257.jpg');
+    display: flex;
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+  background-color: rgba(0, 0, 0, 0.692);
+    
+}
+#dd1,#tt{
+    
+    padding-top: 10%;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    margin-top: 20%;
+    height: 30px;
+    background-color: rgb(32, 32, 32);
+}
+/* h1{
+    padding-top: 5%;
+    text-align: center;
+   
+} */
+
+.button{
+    font-size: 12px;
+    padding: 12px 18px;
+    border-radius: 12px;
+    color: #000;
+    background-color: aqua;
+    border-color: rgb(2, 12, 68)
+}
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+
+    }
+.mb-md-5 mt-md-4 pb-5{
+    height: 60px;
+}
+
+.carousel-item > img {
+  height: 100%;
+}
+.carousel-caption > h1{
+    color: rgb(19, 1, 16);
+    font-size: 75px;
+}
+
+input{
+    border: none;
+    background-color: rgb(236, 231, 231);
+    border-radius: 20px;
+    text-align: center;
+    outline: none;
+    padding: 5PX;
+    color: rgb(22, 21, 21);
+}
+#sb{
+    background-color: rgb(0, 0, 0);
+    margin-left: 30%;
+    width: 60px;
+    color: rgb(26, 23, 23);
+    border-radius: 10px;
+}
+#SB:HOVER{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+button{
+    font-size: 20px;
+    padding: 6pt 37pt;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    border-radius: 12px;
+    color: #000;
+    background-color: rgba(5, 45, 133, 0.932);
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#top{
+    width: 100%;
+    height: 65px;
+    background: linear-gradient(130deg,red,rgba(0, 0, 0, 0.856));
+    text-align: center;
+
+}
+#si{
+    margin-left: 95vh;
+    margin-top: 1vh;
+    color:rgb(2, 1, 43);
+    box-shadow: #000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:10vh;
+}
+#ce{
+    color: rgb(0, 0, 0);
+    font-size: 3vh;
+}
+#cat{
+    padding-left: 30px;
+    padding-right: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+   }
+#ak{
+    font-size: 21vh;
+    margin-top: 1%;
+    margin-left:18%;
+    color: rgba(0, 0, 0, 0.452);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   }
+
+   
+   
+   #l{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 7vh;
+    position: relative;
+    right: 39%;
+    top:13%;
+    color: rgb(0, 0, 0);
+   }
+   #uname,#pass,#cpass{
+    background-color: #ffffff;
+    width: 110%;
+    margin-left: -6%;   
+    height: 40px; 
+    margin-top: 20px;
+    font-size: 20px;
+   }
+   p{
+    color: white;
+   }
+   font a{
+    color: yellow;
+   }
+   font a:hover{
+    color: rgb(4, 0, 255);
+   }
